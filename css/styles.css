@@ -1645,7 +1645,7 @@ h1 {
             }
 
     .checkbox:checked + label:before {
-        background: #9FD468;
+        background: #0CF;
     }
 
     .checkbox:checked + label:after {
